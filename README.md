@@ -4,7 +4,7 @@
 
 ## [Deskripsi Program]
 - Landing Page menampilkan gambar dengan button yang mengarah ke window yang menampilkan Data Residen.
-- Pada Landing Pageerdapat button Details untuk melihat Summary.
+- Pada tiap baris data residen terdapat button Details untuk melihat Summary.
 - Kelas rumah, apartemen, dan indekos merupakan turunan dari kelas hunian.
 - Terdapat metode baru get_daya_listrik pada kelas rumah, apartemen dan indekos untuk mengambil data daya listrik.
 
